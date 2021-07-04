@@ -7,7 +7,7 @@ sensors to gather contextual information about the building. The four sensors us
 
 ## Requirements
 
-JK14 and JavaFX15
+JDK14 and JavaFX15
 
 
 ## Usage
